@@ -10,7 +10,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "4.17.1",
-    "mercadopago": "^1.5.8"
+    "mercadopago": "^1.5.13"
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
